@@ -1,15 +1,14 @@
 {
     "name": "peac36/explorer",
-    "description": "Boilerplate package for creating other packages.",
-    "keywords": ["template", "composer", "package"],
-    "license": "DBAD",
+    "description": "",
+    "keywords": ["laravel", "commands", "service provider", "explore"],
+    "license": "MIT",
     "authors": [
         {
-            "name": "Darwin Biler",
-            "email": "buonzz@gmail.com"
+            "name": "Nikola Stoyanov",
+            "email": "peac36@abv.bg"
         }
     ],
-    "type": "project",
     "require": {
 		"php": ">=7.1"
     },
