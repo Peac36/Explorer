@@ -1,5 +1,8 @@
 ### Explorer
 
+---
+
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Peac36/Explorer/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Peac36/Explorer/?branch=master)
 
 A simple Laravel package helps you to explore the framework commands and bindings.
 
